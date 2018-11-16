@@ -1,0 +1,4 @@
+target/
+/lib/
+/lib_not_used/
+/docker/oradata/
