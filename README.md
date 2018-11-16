@@ -28,4 +28,4 @@ CREATE TABLE test_tmstmp_w_tz(
 ## JDBC driver
 
 Download driver from [the Oracle website](https://www.oracle.com/technetwork/database/application-development/jdbc/downloads/index.html)
-(version 12.2+ required for the JDBC 4.2 examples).
+(version 12.2+ required for the JDBC 4.2 examples) and put it in the `lib/` directory at the root of the project.

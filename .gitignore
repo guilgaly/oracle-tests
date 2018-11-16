@@ -1,4 +1,4 @@
 target/
-/lib/
+/lib/*.jar
 /lib_not_used/
 /docker/oradata/
